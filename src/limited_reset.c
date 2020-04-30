@@ -31,7 +31,7 @@ int limited_reset(uint32_t* out)
 {
   VALIDATE_OUTPUT(out);
 
-  *out = TINY_MAX_LIMIT;
+  *out = TINY_MIN_LIMIT;
 
   return ESUCCESS;
 }

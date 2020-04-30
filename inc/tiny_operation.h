@@ -25,6 +25,6 @@
 #ifndef TINY_DECREMENT_H
 #define TINY_DECREMENT_H
 
-#define TINY_DECREMENT +
+#define TINY_DECREMENT -
 
 #endif /* TINY_DECREMENT_H */
